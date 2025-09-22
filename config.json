@@ -34,14 +34,7 @@
   "heimuerzyapi": {
     "api": "https://json.heimuer.xyz/api.php/provide/vod",
     "name": "黑木耳",
-    "is_adult": false
-  },
-  "wolongzyapi": {
-    "api": "https://wolongzyw.com/api.php/provide/vod",
-    "name": "卧龙资源",
-    "is_adult": false
-
-      
+    "is_adult": false     
     }
   }
 }
