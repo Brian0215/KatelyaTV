@@ -6,10 +6,9 @@
       "name": "电影天堂资源",
       "is_adult": false
            },
-    "wujinapi_net": {
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
-      "name": "TV-无尽资源",
-      "detail": "",
+    "bfzyapi": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源",
       "is_adult": false
 
 
