@@ -5,6 +5,12 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "is_adult": false
+           },
+    "wujinapi_net": {
+      "api": "https://api.wujinapi.net/api.php/provide/vod",
+      "name": "TV-无尽资源",
+      "detail": "",
+      "is_adult": false
 
 
 
