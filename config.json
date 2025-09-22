@@ -54,6 +54,12 @@
       "name": "TV-光速资源",
       "detail": "https://api.guangsuapi.com",
       "is_adult": false
+     },
+     "1080zyku": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "name": "TV-1080资源",
+      "detail": "https://api.1080zyku.com",
+      "is_adult": false
      }
   }
 }
