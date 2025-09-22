@@ -168,6 +168,42 @@
       "name": "TV-电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com",
       "is_adult": false
+    },
+    "bwzyz": {
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "AV-百万资源",
+      "detail": "https://api.bwzyz.com",
+      "is_adult": true
+    },
+    "apibdzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "TV-百度云资源",
+      "detail": "https://api.apibdzy.com",
+      "is_adult": false
+    },
+    "1080zyku_json": {
+      "api": "https://api.1080zyku.com/inc/apijson.php/",
+      "name": "TV-神马云",
+      "detail": "https://api.1080zyku.com",
+      "is_adult": false
+    },
+    "suoniapi": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "TV-索尼资源",
+      "detail": "",
+      "is_adult": false
+    },
+    "hongniuzy2": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "TV-红牛资源",
+      "detail": "https://www.hongniuzy2.com",
+      "is_adult": false
+    },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "name": "TV-茅台资源",
+      "detail": "https://caiji.maotaizy.cc",
+      "is_adult": false
    }
   }
 }
