@@ -283,6 +283,48 @@
       "detail": "https://www.mdzyapi.com",
       "is_adult": false
     },
+    "ffzynew": {
+      "api": "https://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡影视new",
+      "detail": "http://ffzy5.tv",
+      "is_adult": false
+    },
+    "jszyapi": {
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "name": "极速资源",
+      "detail": "https://jszyapi.com",
+      "is_adult": false
+    },
+    "gayapi": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播资源网站",
+      "is_adult": false
+    },
+    "xingba111": {
+      "api": "https://xingba111.com/api.php/provide/vod",
+      "name": "性吧资源",
+      "is_adult": true
+    },
+    "aiduanju": {
+      "api": "https://www.aiduanju.cc/",
+      "name": "爱短剧.cc",
+      "is_adult": false
+    },
+    "huawei8": {
+      "api": "https://huawei8.live/api.php/provide/vod",
+      "name": "华为吧资源",
+      "is_adult": false
+    },
+    "taopianapi": {
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "name": "淘片资源",
+      "is_adult": false
+    },
+    "hongniuzy3": {
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "name": "红牛资源",
+      "is_adult": false  
+    },
     "xsd_sdzyapi": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源",
