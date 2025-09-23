@@ -283,6 +283,18 @@
       "detail": "https://www.mdzyapi.com",
       "is_adult": false    
     },
+      "91md": {
+      "api": "https://91md.me/api.php/provide/vod",
+      "name": "AV-91麻豆",
+      "detail": "https://91md.me",
+      "is_adult": true
+    },
+    "lbapiby": {
+      "api": "http://lbapiby.com/api.php/provide/vod",
+      "name": "AV-AIvin",
+      "detail": "",
+      "is_adult": true   
+    },
     "jkunzyapi": {
       "api": "https://jkunzyapi.com/api.php/provide/vod",
       "name": "AV-JKUN资源",
