@@ -277,12 +277,6 @@
       "detail": "https://caiji.moduapi.cc",
       "is_adult": false
     },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "TV-黑木耳",
-      "detail": "https://json.heimuer.xyz",
-      "is_adult": false
-    },
     "mdzyapi": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "TV-魔都资源",
